@@ -1,19 +1,12 @@
 addEventListener("DOMContentLoaded", () => {
 
     const btnContainer = document.getElementById("buttonsContainer");
-
     const messages = document.getElementById("messages");
-
     const playerWins = document.getElementById("playerWins");
-
     const cpuWins = document.getElementById("cpuWins");
-
     const rockBtn = document.getElementById("rockBtn");
-
     const paperBtn = document.getElementById("paperBtn");
-
     const scissorBtn = document.getElementById("scissorBtn");
-
 
     const moveList = ["rock", "paper", "scissor"];
 
